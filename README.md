@@ -12,3 +12,10 @@
   <em>Screen capture</em>
 </figcaption>
 </p>
+
+<p>
+<img src="./tileset-dfd.png"/>
+<figcaption>
+  <em>Tileset</em>
+</figcaption>
+</p>
